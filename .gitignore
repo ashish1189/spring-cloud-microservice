@@ -23,9 +23,6 @@
 hs_err_pid*
 
 target/
-cloud-api-gateway/
-hystrix-dashboard/
-service-registry/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
